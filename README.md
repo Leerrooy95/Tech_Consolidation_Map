@@ -28,18 +28,6 @@ This repository documents **pattern analysis connecting multiple investigations*
 - Illegal activity (matters for formal investigation)
 - Causal relationships (correlations documented, causation requires investigation)
 
-## Navigation
-
-| Section | Contents |
-|---------|----------|
-| 1_AI_Manipulation_Case/ | User's documented AI research interference patterns |
-| 2_Tech_Infrastructure/ | Oracle-Palantir, Stargate, Paramount, cross-investments |
-| 3_Foreign_Influence/ | Russia-Japan, Saudi AI, China, CFIUS patterns |
-| 4_Political_Networks/ | Donations, DOGE personnel, transition events |
-| 5_Congressional_Oversight/ | Hearing comparisons, enforcement asymmetries |
-| 6_Pattern_Analysis/ | Synthesis, correlations, alternative explanations |
-| 7_Evidence_Standards/ | Methodology, verification, limitations |
-
 ## Intended Use
 
 This repository is designed for:
@@ -58,8 +46,9 @@ All claims are categorized by evidence level:
 
 ## Contact and Contribution
 
-[User contact information]
-[Contribution guidelines for additional documentation]
+Austin Smith
+austinwarriors5@gmail.com
+Please email for further data
 
 ## Disclaimer
 
