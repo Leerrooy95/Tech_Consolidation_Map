@@ -1,5 +1,4 @@
-
-# Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
+### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
 ## Overview
 
@@ -47,7 +46,9 @@ All claims are categorized by evidence level:
 ## Contact and Contribution
 
 Austin Smith
+
 austinwarriors5@gmail.com
+
 Please email for further data
 
 ## Disclaimer
