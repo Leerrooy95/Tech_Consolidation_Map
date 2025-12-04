@@ -1,5 +1,9 @@
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
+See also:
+
+https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison
+
 ## Overview
 
 This repository documents **pattern analysis connecting multiple investigations** into tech infrastructure consolidation, foreign influence networks, political donations, and congressional oversight asymmetries spanning 1976-2025. The research identifies temporal correlations and structural connections while maintaining strict evidentiary standards.
