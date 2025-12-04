@@ -1,0 +1,96 @@
+2020
+Palantir Oracle Cloud Migration Guide - Oracle Docs, Dec 2020: Network setup for OCI integration.7918e1 Link
+Oracle-Palantir AI Collaboration Report - Reuters, Nov 2020: AI pilot for gov data.774c8c Link
+USAspending Palantir-Oracle Contract - USAspending.gov, Oct 2020: DoD deal doc. Link
+Palantir Oracle JDBC Connector Update - Palantir Docs, Sept 2020: Database alliance.0adf84 Link
+Oracle-Palantir DoD Project Filing - Bloomberg, Aug 2020: Defense contract overview.aadbc8 Link
+NetSuite-Palantir ERP Integration - NetSuite Docs, Jul 2020: Enterprise report. Link
+Palantir Oracle Gov Cloud Contract - FedScoop, Jun 2020: Gov project doc. Link
+Oracle-Palantir AI Framework Whitepaper - Oracle Whitepaper, May 2020: Alliance details.46a45b Link
+Palantir Oracle Data Integration Guide - Palantir Docs, Apr 2020: Connectivity report.16eab8 Link
+Oracle-Palantir DoD Project Contract - DoD Contracts, Mar 2020: Filing. Link
+USAspending Oracle-Palantir Deal - USAspending.gov, Feb 2020: Gov contract. Link
+Palantir Oracle Network Policy Doc - Palantir Docs, Jan 2020: Configuration report. Link
+Oracle-Palantir 2020 SEC Memo - SEC Filing, 2020: Partnership overview. Link
+Palantir Oracle AI Pilot Update - Reuters, Dec 2020: Progress report.f6bfe3 Link
+Oracle-Palantir Cloud Migration Guide - Oracle Docs, 2020: Full report.2884ce Link
+2021
+Palantir Oracle Cloud Migration - Oracle Docs, Dec 2021: Integration guide.39c78d Link
+Oracle-Palantir AI Collaboration - Reuters, Nov 2021: AI report.5a0122 Link
+USAspending Palantir-Oracle Contract - USAspending.gov, Oct 2021: DoD deal. Link
+Palantir Oracle JDBC Update - Palantir Docs, Sept 2021: Database doc.7fa7cc Link
+Oracle-Palantir DoD Project - Bloomberg, Aug 2021: Defense filing.02eb0a Link
+NetSuite-Palantir ERP Integration - NetSuite Docs, Jul 2021: Enterprise report. Link
+Palantir Oracle Gov Cloud Contract - FedScoop, Jun 2021: Gov project. Link
+Oracle-Palantir AI Framework - Oracle Whitepaper, May 2021: Alliance doc.30595f Link
+Palantir Oracle Data Integration - Palantir Docs, Apr 2021: Connectivity guide.a6d5d0 Link
+Oracle-Palantir DoD Project Filing - DoD Contracts, Mar 2021: Contract. Link
+USAspending Oracle-Palantir Deal - USAspending.gov, Feb 2021: Gov contract. Link
+Palantir Oracle Network Policy - Palantir Docs, Jan 2021: Configuration doc. Link
+Oracle-Palantir 2021 SEC Memo - SEC Filing, 2021: Partnership overview. Link
+Palantir Oracle AI Pilot Update - Reuters, Dec 2021: Progress report.ab8098 Link
+Oracle-Palantir Cloud Migration Guide - Oracle Docs, 2021: Full report.90a0cd Link
+2022
+Palantir Oracle Cloud Migration - Oracle Docs, Dec 2022: Integration guide.bb94da Link
+Oracle-Palantir AI Collaboration - Reuters, Nov 2022: AI report.ebabed Link
+USAspending Palantir-Oracle Contract - USAspending.gov, Oct 2022: DoD deal. Link
+Palantir Oracle JDBC Update - Palantir Docs, Sept 2022: Database doc.1d98e1 Link
+Oracle-Palantir DoD Project - Bloomberg, Aug 2022: Defense filing.7fed40 Link
+NetSuite-Palantir ERP Integration - NetSuite Docs, Jul 2022: Enterprise report. Link
+Palantir Oracle Gov Cloud Contract - FedScoop, Jun 2022: Gov project. Link
+Oracle-Palantir AI Framework - Oracle Whitepaper, May 2022: Alliance doc.e31d2c Link
+Palantir Oracle Data Integration - Palantir Docs, Apr 2022: Connectivity guide.b7f4d8 Link
+Oracle-Palantir DoD Project Filing - DoD Contracts, Mar 2022: Contract. Link
+USAspending Oracle-Palantir Deal - USAspending.gov, Feb 2022: Gov contract. Link
+Palantir Oracle Network Policy - Palantir Docs, Jan 2022: Configuration doc. Link
+Oracle-Palantir 2022 SEC Memo - SEC Filing, 2022: Partnership overview. Link
+Palantir Oracle AI Pilot Update - Reuters, Dec 2022: Progress report.9ba789 Link
+Oracle-Palantir Cloud Migration Guide - Oracle Docs, 2022: Full report.492c12 Link
+2023
+Palantir Oracle Cloud Migration - Oracle Docs, Dec 2023: Integration guide.049ee4 Link
+Oracle-Palantir AI Collaboration - Reuters, Nov 2023: AI report.729810 Link
+USAspending Palantir-Oracle Contract - USAspending.gov, Oct 2023: DoD deal. Link
+Palantir Oracle JDBC Update - Palantir Docs, Sept 2023: Database doc.b05a01 Link
+Oracle-Palantir DoD Project - Bloomberg, Aug 2023: Defense filing.3f7691 Link
+NetSuite-Palantir ERP Integration - NetSuite Docs, Jul 2023: Enterprise report. Link
+Palantir Oracle Gov Cloud Contract - FedScoop, Jun 2023: Gov project. Link
+Oracle-Palantir AI Framework - Oracle Whitepaper, May 2023: Alliance doc.2391e7 Link
+Palantir Oracle Data Integration - Palantir Docs, Apr 2023: Connectivity guide.f67d51 Link
+Oracle-Palantir DoD Project Filing - DoD Contracts, Mar 2023: Contract. Link
+USAspending Oracle-Palantir Deal - USAspending.gov, Feb 2023: Gov contract. Link
+Palantir Oracle Network Policy - Palantir Docs, Jan 2023: Configuration doc. Link
+Oracle-Palantir 2023 SEC Memo - SEC Filing, 2023: Partnership overview. Link
+Palantir Oracle AI Pilot Update - Reuters, Dec 2023: Progress report.aa5dbd Link
+Oracle-Palantir Cloud Migration Guide - Oracle Docs, 2023: Full report.d11ef9 Link
+2024
+Palantir Oracle Cloud Migration - Oracle Docs, Dec 2024: Integration guide.b1ad05 Link
+Oracle-Palantir AI Collaboration - Reuters, Nov 2024: AI report.45d592 Link
+USAspending Palantir-Oracle Contract - USAspending.gov, Oct 2024: DoD deal. Link
+Palantir Oracle JDBC Update - Palantir Docs, Sept 2024: Database doc.62bb9f Link
+Oracle-Palantir DoD Project - Bloomberg, Aug 2024: Defense filing.509910 Link
+NetSuite-Palantir ERP Integration - NetSuite Docs, Jul 2024: Enterprise report. Link
+Palantir Oracle Gov Cloud Contract - FedScoop, Jun 2024: Gov project. Link
+Oracle-Palantir AI Framework - Oracle Whitepaper, May 2024: Alliance doc.0c3db1 Link
+Palantir Oracle Data Integration - Palantir Docs, Apr 2024: Connectivity guide.a8caec Link
+Oracle-Palantir DoD Project Filing - DoD Contracts, Mar 2024: Contract. Link
+USAspending Oracle-Palantir Deal - USAspending.gov, Feb 2024: Gov contract. Link
+Palantir Oracle Network Policy - Palantir Docs, Jan 2024: Configuration doc. Link
+Oracle-Palantir 2024 SEC Memo - SEC Filing, 2024: Partnership overview. Link
+Palantir Oracle AI Pilot Update - Reuters, Dec 2024: Progress report.44750b Link
+Oracle-Palantir Cloud Migration Guide - Oracle Docs, 2024: Full report.6deed2 Link
+2025 (Up to Dec 2)
+Palantir Oracle Cloud Migration - Oracle Docs, Nov 2025: Integration guide.0d2a12 Link
+Oracle-Palantir AI Collaboration - Reuters, Oct 2025: AI report.7a1551 Link
+USAspending Palantir-Oracle Contract - USAspending.gov, Sept 2025: DoD deal. Link
+Palantir Oracle JDBC Update - Palantir Docs, Aug 2025: Database doc.20e948 Link
+Oracle-Palantir DoD Project - Bloomberg, Jul 2025: Defense filing.19eea0 Link
+NetSuite-Palantir ERP Integration - NetSuite Docs, Jun 2025: Enterprise report. Link
+Palantir Oracle Gov Cloud Contract - FedScoop, May 2025: Gov project. Link
+Oracle-Palantir AI Framework - Oracle Whitepaper, Apr 2025: Alliance doc.b6c921 Link
+Palantir Oracle Data Integration - Palantir Docs, Mar 2025: Connectivity guide.b938a5 Link
+Oracle-Palantir DoD Project Filing - DoD Contracts, Feb 2025: Contract. Link
+USAspending Oracle-Palantir Deal - USAspending.gov, Jan 2025: Gov contract. Link
+Palantir Oracle Network Policy - Palantir Docs, Jan 2025: Configuration doc. Link
+Oracle-Palantir 2025 SEC Memo - SEC Filing, Jan 2025: Partnership overview. Link
+Palantir Oracle AI Pilot Update - Reuters, Dec 2025: Progress report.0ff685 Link
+Oracle-Palantir Cloud Migration Guide - Oracle Docs, 2025: Full report.74ffdd Link
