@@ -4,6 +4,8 @@ New and Important Document (05December2025), Audit By GemeniAI Pro:
 
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
+Investigating DOGE's Dissolution and Oversight.pdf
+
 
 See also:
 
