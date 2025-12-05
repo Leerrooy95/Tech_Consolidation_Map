@@ -1,6 +1,6 @@
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
-New and Important document (05December2025):
+New and Important Document (05December2025):
 
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
