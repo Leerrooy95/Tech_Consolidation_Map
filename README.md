@@ -6,6 +6,8 @@ THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
 Investigating DOGE's Dissolution and Oversight.pdf
 
+Mapping Asymmetric Nexus Power Layers.pdf
+
 
 See also:
 
