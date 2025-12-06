@@ -1,3 +1,13 @@
+### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
+
+New and Important Document (05December2025), Audit By GemeniAI Pro:
+
+THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
+
+Investigating DOGE's Dissolution and Oversight.pdf
+
+**Mapping Asymmetric Nexus Power Layers.pdf**
+
 ## 🗂️ Linked Case Studies
 This repository serves as the central map. For detailed forensic evidence on specific layers, see the attached sub-projects:
 
@@ -8,18 +18,8 @@ This repository serves as the central map. For detailed forensic evidence on spe
 * **[AI Manipulation OSINT Case Study](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study)**
     * *Mapping Layer 8 (Epistemic/Truth).*
     * Raw data logs and analysis of algorithmic bias and narrative control within the "Black Box."
-
----
-
-### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
-
-New and Important Document (05December2025), Audit By GemeniAI Pro:
-
-THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
-
-Investigating DOGE's Dissolution and Oversight.pdf
-
-**Mapping Asymmetric Nexus Power Layers.pdf**
+ 
+  ---
 
 ## Overview
 
