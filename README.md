@@ -1,6 +1,6 @@
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
-New and Important Document (05December2025), Audit By GemeniAI Pro:
+New and Important Document (06December2025), Audits By GemeniAI Pro:
 
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
@@ -10,6 +10,9 @@ Mapping Asymmetric Nexus Power Layers.pdf
 
 **Asymmetric Control Stack.pdf**
 > The full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
+
+**Auditing Executive Impunity Protocol.pdf**
+> The deeper political ties
 
 ## 🗂️ Linked Case Studies
 This repository serves as the central map. For detailed forensic evidence on specific layers, see the attached sub-projects:
