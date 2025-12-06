@@ -1,6 +1,9 @@
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
-New and Important Document (06December2025), Audits By GemeniAI Pro:
+New and Important Document (06December2025) Audits by GeminiAI Pro:
+
+**https://github.com/Leerrooy95/Global-Layers-of-Control**
+> Global research related to this topic.
 
 THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
