@@ -9,6 +9,8 @@ This repository serves as the central map. For detailed forensic evidence on spe
     * *Mapping Layer 8 (Epistemic/Truth).*
     * Raw data logs and analysis of algorithmic bias and narrative control within the "Black Box."
 
+---
+
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
 New and Important Document (05December2025), Audit By GemeniAI Pro:
