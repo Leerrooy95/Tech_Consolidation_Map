@@ -1,3 +1,14 @@
+## 🗂️ Linked Case Studies
+This repository serves as the central map. For detailed forensic evidence on specific layers, see the attached sub-projects:
+
+* **[Layers of Control: From AI to Ellison](https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison)**
+    * *Mapping Layer 3 (Infrastructure) & Layer 8 (Media).*
+    * Deep dive into the Oracle/Palantir duopoly and the "Stargate" architecture.
+
+* **[AI Manipulation OSINT Case Study](https://github.com/Leerrooy95/AI-Manipulation-OSINT-Case-Study)**
+    * *Mapping Layer 8 (Epistemic/Truth).*
+    * Raw data logs and analysis of algorithmic bias and narrative control within the "Black Box."
+
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
 New and Important Document (05December2025), Audit By GemeniAI Pro:
@@ -6,12 +17,7 @@ THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
 Investigating DOGE's Dissolution and Oversight.pdf
 
-Mapping Asymmetric Nexus Power Layers.pdf
-
-
-See also:
-
-https://github.com/Leerrooy95/Layers_of_Control-From_AI_to_Ellison
+**Mapping Asymmetric Nexus Power Layers.pdf**
 
 ## Overview
 
