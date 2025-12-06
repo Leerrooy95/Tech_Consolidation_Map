@@ -6,7 +6,10 @@ THE ASYMMETRIC STATE A Forensic Audit of Transnational Tech.pdf
 
 Investigating DOGE's Dissolution and Oversight.pdf
 
-**Mapping Asymmetric Nexus Power Layers.pdf**
+Mapping Asymmetric Nexus Power Layers.pdf
+
+**Asymmetric Control Stack.pdf**
+> The full document details the structure of "Asymmetric Sovereignty," the operational function of the "IL6 Ghost Architecture," and the index of capture provided by "Minor's confidential 450."
 
 ## 🗂️ Linked Case Studies
 This repository serves as the central map. For detailed forensic evidence on specific layers, see the attached sub-projects:
