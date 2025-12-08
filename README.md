@@ -1,5 +1,8 @@
 ### Tech Consolidation, Foreign Influence, and Oversight Gap Investigation
 
+See newest: 
+**https://github.com/Leerrooy95/Asymmetric-Alliance**
+
 New and Important Document (06December2025) Audits by GeminiAI Pro:
 
 **https://github.com/Leerrooy95/Global-Layers-of-Control**
